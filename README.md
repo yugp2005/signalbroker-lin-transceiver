@@ -1,3 +1,7 @@
+# Important - REDIRECT
+
+This repository is stale. Please go [here](https://github.com/AleksandarFilipov/signalbroker-lin-transceiver) to get access to the most recent code. 
+
 # Lin bus reader and writer
 
 Ardunio Ethernet (alt. arduino micro + ethernet shield) + MCP2004A. Read/write, act as a master or one or many slaves.
